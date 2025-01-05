@@ -17,7 +17,11 @@ flutter run
 
 
 
+## To be done 
+ designing the user profile with the auth
+ creating a new page for the liked currency 
 
+ 
 ## Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
