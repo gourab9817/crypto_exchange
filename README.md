@@ -12,11 +12,11 @@ flutter pub get
 flutter run
 ```
 
-
 ## Screenshots
-<https://github.com/gourab9817/crypto_exchange/blob/main/sso.jpg>
-<https://github.com/gourab9817/crypto_exchange/blob/main/ss1.jpg>
-<https://github.com/gourab9817/crypto_exchange/blob/main/ss2.jpg>
+![Screenshot 1](https://github.com/gourab9817/crypto_exchange/blob/main/sso.jpg?raw=true)
+![Screenshot 2](https://github.com/gourab9817/crypto_exchange/blob/main/ss1.jpg?raw=true)
+![Screenshot 3](https://github.com/gourab9817/crypto_exchange/blob/main/ss2.jpg?raw=true)
+
 
 
 ## To be done 
