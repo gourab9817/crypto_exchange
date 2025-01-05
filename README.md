@@ -14,7 +14,9 @@ flutter run
 
 
 ## Screenshots
-
+<https://github.com/gourab9817/crypto_exchange/blob/main/sso.jpg>
+<https://github.com/gourab9817/crypto_exchange/blob/main/ss1.jpg>
+<https://github.com/gourab9817/crypto_exchange/blob/main/ss2.jpg>
 
 
 ## To be done 
